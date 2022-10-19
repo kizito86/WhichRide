@@ -1,0 +1,384 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+}
+
+.box{
+    margin: 10px;
+}
+.red{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.black{
+
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1000px;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    text-align: right;
+    justify-content: space-between;
+    
+    }
+
+    ul li{
+    margin-left: 25px;
+    font-size: 18px;
+    font-weight: 500px;
+    font-style: normal;
+    font-family: 'poppins';
+    line-height: 27px;
+    }
+
+    
+    .section-one{
+        display: flex;
+        padding: 0 300px;
+      
+        
+    }
+    .two{
+        margin: 50px;
+        font-size: 50px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        margin-left: 30px;
+
+    }
+
+    .three{
+        display: flex;
+        margin-top: 30px;
+        /* margin-bottom: 30px; */
+        margin-right: 60px;
+      
+        
+    }
+
+    .two-a{
+        margin-top: 50px;
+        font-size: 25px;
+        margin-left: 30px;
+        padding: 50px;
+        
+    }
+
+    .france{
+        flex: 1;
+        margin-top: 30px;
+        /* margin-bottom: 30px; */
+        align-items: center;
+        justify-content: flex-end;
+        margin-left: 80px;
+        
+    }
+
+    .france .two{
+        margin-top: 250px;
+    }
+
+    .box-one{
+        background-color: #5C1A8D;
+       padding: 50px 300px;
+       display: flex;
+       align-items: center;
+       flex-direction: column;
+                       
+    }
+
+    .mercury{
+        
+        /* align-items: center;
+        justify-content: flex-end;
+        margin-left: 80px;
+        margin-top: 50px;; */
+        
+    }
+
+    .fire{
+        /* display: flex;
+        align-items: center;
+        justify-items: center;
+        margin-left: 700px; */
+        color: white;font-size: 27px;
+        text-align: center;
+        margin-top: 100px;
+        padding-bottom: 20px;
+    }
+    .ice{
+        /* display: flex;
+        align-items: center;
+        margin-left: 750px; */
+        color: white;
+        font-size: medium;
+        justify-items: center;
+        text-align: center;
+    }
+
+    .pink{
+        margin: 0 auto;
+        /* margin-top: 200px;
+        margin-right: 300px; */
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 80%;
+       
+
+        }
+
+
+
+#ghana{
+    /* display: flex;
+    margin-right: 40px;
+    border: 2px solid black; */
+    background: #F2C94C;
+    color: brown;
+    border-radius: 50%;
+    border: none;
+    width: 100px;
+    height: 100px;
+    /* left: 0px;
+    top: 20px */
+    margin-right: 15px;
+
+}
+
+.dave{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    
+}
+
+.kenya{
+    color: white;   font-family: 'Times New Roman', Times, serif;
+            }
+
+            
+#leg{
+    /* display: flex;
+    margin-right: 40px;
+    border: 2px solid black; */
+    background: white;
+    color:black;
+    border-radius: 50%;
+    border: none;
+    width: 100px;
+    height: 100px;
+    /* left: 0px;
+    top: 20px */
+    margin-right: 15px;
+}
+.sam{
+    /* display: flex;
+    align-items: center;  */
+    color: white;
+}
+
+
+#david{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 15px;
+    }
+
+    .faith{
+        color: white;  
+    }
+
+    .hair{
+        text-align: center;
+        font-size: 60px;
+        margin-top: 80px;
+        padding-bottom: 60px;
+    }
+    
+    .one{
+     background-color: #56CCF2;
+     width: 100px;
+     height: 100px;
+     border-radius: 50%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+    }
+    .mimi h1{
+        color: black; font-size: 30px;
+        margin-top: 20px;
+        
+    }
+    .mimi{
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+        /* background: inherit #E5E5E5; */
+        margin-left: 200px;
+
+    }
+    
+    .mimi p{
+        margin-top: 20px;
+        font-size: 20px;
+        color: black;
+        align-items: center;
+        flex-direction: column;
+        padding-bottom: 40px;
+    }
+
+    
+
+    .b-one{
+        background-color: #F2C94C;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .love{
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+        background-color: white;
+        margin-left: 200px; 
+    }
+
+    .b-two{
+        background-color: lightgreen;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .b-three{
+        background-color: #5C1A8D;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+          
+    }
+    .father{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+    .love h1{
+        color: black; font-size: 30px;
+        margin-top: 20px;
+    }
+    .love p{
+        margin-top: 20px;
+        font-size: 20px;
+        color: black;
+        align-items: center;
+        flex-direction: column;
+        padding-bottom: 40px;
+    }
+
+
+    .low{
+        background: #F2C94C;
+        align-items: center;
+        justify-content: center;
+        /* margin-bottom: 50px; */
+    }
+    .cut{
+        text-align: center;
+        font-size: 60px;
+        padding-top: 80px;
+  
+    }
+    .low p{
+        margin-top: 20px;
+        font-size: 20px;
+        color: black;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        padding-bottom: 40px; 
+    }
+
+
+    .dessy{
+        display: flex;
+        color: white;
+        align-items: center;
+        margin-left: 700px;
+       
+
+        
+    }
+
+    #high{
+        background-color: black;
+        border: none;
+        color: white;
+        height: 50px;
+        width: 150px;
+        margin-left: 10px;
+
+    }
+    #high-one{
+        background: #F2C94C;
+        border: 2px solid white;
+        color: white;
+        height: 50px;
+        width: 300px;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .holy{
+        background-color: goldenrod;
+        display: flex;
+        justify-content: space-between;
+        padding: 20px;
+        /* margin-top: 10px; */
+       
+        
+              
+    }
+    .hate{
+        display: flex;
+        text-align: end;
+        justify-content: end;
+        margin-right: 50px;
+
+    }
+.fine{
+    display: flex;
+    margin-right: 50px;
+}
